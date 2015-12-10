@@ -1,0 +1,41 @@
+#logo {display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 300px;
+width: 500px;
+height: 275px;}
+
+#box {display:block;
+margin-left:auto;
+margin-right: auto;}
+
+#buttons
+{
+	
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	text-align: center;
+
+}
+p {
+font-family: Arial;
+font-size: 14px;
+text-align: center;
+}
+
+#corner {
+
+
+    /* fixed within viewport */
+    position: fixed;
+
+    /* set position */
+    top: 5px;
+    right: 100px;
+
+    /* must have dimension */
+    width: 200px;
+    height: 200px;
+}
+}
